@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17601983.svg)](https://doi.org/10.5281/zenodo.17601983)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4545--9862-brightgreen.svg)](https://orcid.org/0000-0003-4545-9862)
 
 # Teoria del Residuo Madre (RM)
 **Autore:** Luca Bandini – ORCID [0000-0003-4545-9862](https://orcid.org/0000-0003-4545-9862)  
