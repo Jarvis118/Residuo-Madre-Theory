@@ -1,29 +1,24 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17601983.svg)](https://doi.org/10.5281/zenodo.17601983)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4545--9862-brightgreen.svg)](https://orcid.org/0000-0003-4545-9862)
 ---
+> ### 📖 Come citare  
+> Se utilizzi o citi questo lavoro, per favore usa la seguente referenza:  
+>  
+> **Bandini, L. (2025). _The Mother Residue: A Unified Cosmological Framework for Dark Matter and Dark Energy._ Zenodo. [https://doi.org/10.5281/zenodo.17601983](https://doi.org/10.5281/zenodo.17601983)**  
+>  
+> #### BibTeX  
+> ```bibtex
+> @article{Bandini2025_ResiduoMadre,
+>   author    = {Luca Bandini},
+>   title     = {The Mother Residue: A Unified Cosmological Framework for Dark Matter and Dark Energy},
+>   year      = {2025},
+>   publisher = {Zenodo},
+>   doi       = {10.5281/zenodo.17601983},
+>   url       = {https://doi.org/10.5281/zenodo.17601983}
+> }
+> ```
 
-### 📖 Come citare
 
-Se utilizzi o citi questo lavoro, per favore usa la seguente referenza:
-
-**Bandini, L. (2025). _The Mother Residue: A Unified Cosmological Framework for Dark Matter and Dark Energy._ Zenodo. [https://doi.org/10.5281/zenodo.17601983](https://doi.org/10.5281/zenodo.17601983)**
-
-#### BibTeX
-```bibtex
-@article{Bandini2025_ResiduoMadre,
-  author    = {Luca Bandini},
-  title     = {The Mother Residue: A Unified Cosmological Framework for Dark Matter and Dark Energy},
-  year      = {2025},
-  publisher = {Zenodo},
-  doi       = {10.5281/zenodo.17601983},
-  url       = {https://doi.org/10.5281/zenodo.17601983}
-}
-
----
-
-📌 Dopo aver incollato e salvato con **Commit changes**, nella pagina principale del repository apparirà il blocco “Come citare” formattato con il riquadro *BibTeX* — proprio come nei progetti open-science CERN o NASA.  
-
-Vuoi che il riquadro “Come citare” venga reso in stile accademico compatto (ad esempio con una cornice grigia e il logo Zenodo accanto)?
 
 # Teoria del Residuo Madre (RM)
 **Autore:** Luca Bandini – ORCID [0000-0003-4545-9862](https://orcid.org/0000-0003-4545-9862)  
