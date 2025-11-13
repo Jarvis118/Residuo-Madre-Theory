@@ -1,6 +1,9 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17601983.svg)](https://doi.org/10.5281/zenodo.17601983)
+
 # Teoria del Residuo Madre (RM)
 **Autore:** Luca Bandini – ORCID [0000-0003-4545-9862](https://orcid.org/0000-0003-4545-9862)  
-**DOI Zenodo:** [10.5281/zenodo.17559028](https://doi.org/10.5281/zenodo.17559028)
+**DOI Zenodo:** DOI Zenodo: [10.5281/zenodo.17601983](https://doi.org/10.5281/zenodo.17601983)
+
 
 ---
 
@@ -51,7 +54,8 @@ Per ogni test o analisi, chi partecipa deve indicare:
 ## 📬 Contatti
 - **Autore:** Luca Bandini  
 - **Email:** lbandini60@yahoo.com  
-- **Repository ufficiale Zenodo:** [DOI 10.5281/zenodo.17559028](https://doi.org/10.5281/zenodo.17559028)  
+- **Repository ufficiale Zenodo:**  DOI Zenodo: [10.5281/zenodo.17601983](https://doi.org/10.5281/zenodo.17601983)
+
 - **Pagina Open Science:** [https://jarvis118.github.io/Jarvis/](https://jarvis118.github.io/Jarvis/)
 
 ---
