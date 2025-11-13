@@ -1,6 +1,6 @@
 # Teoria del Residuo Madre (RM)
 **Autore:** Luca Bandini – ORCID [0000-0003-4545-9862](https://orcid.org/0000-0003-4545-9862)  
-**DOI Zenodo:** [10.5281/zenodo.XXXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXXX)
+**DOI Zenodo:** [10.5281/zenodo.XXXXXXXX](https://doi.org/10.5281/zenodo.17559028)
 
 ---
 
